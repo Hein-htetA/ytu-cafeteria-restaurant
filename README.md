@@ -2,10 +2,10 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/78092551/211159211-1119ae05-6cd3-47a5-b3e8-f06f8553cd0d.jpg">
-  <p>Live site at - https://main.d3ql4i1ggmo3ay.amplifyapp.com/</p>
 </p>
 
-
+<p align='center'>Live site at</p>
+<p align='center'>https://main.d3ql4i1ggmo3ay.amplifyapp.com/</p>
 
 <!-- TODO: Add a screenshot of the live project.
     1. Link to a 'live demo.'
