@@ -26,7 +26,7 @@
 ## Features
 
 - After registering, users can open their own restaurant and order from other restaurants.
-- Users can post available menu on their restaurant.
+- Users can post available menu on their restaurants.
 - When an order is received, order status is live updated between customer and restaurant owner by using server-sent-event.
 - Official restaurants in University cafeteria are placed at the top of marketplace panel.
 
